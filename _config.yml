@@ -8,13 +8,13 @@ subtitle:
 description:
 keywords:
 author: Guan Chao
-language:
-timezone:
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://project-daily.github.io
+root: /english
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -78,4 +78,6 @@ theme: Daily
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/project-daily/english.git
+  branch: master
