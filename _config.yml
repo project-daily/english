@@ -75,6 +75,18 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: Daily
 
+nav:
+  主页: .
+  归档: archives
+
+social:
+  github: https://github.com/levid-gc
+  weibo: https://weibo.com/bswaiting
+
+widget:
+  title: 座右铭
+  content: 简 单 , 不 简 单 ...
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
