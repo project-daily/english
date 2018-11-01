@@ -124,9 +124,10 @@ _NAmE_ /fəˈnænʃl/
 _**adjective**_
 
 - connected with money and finance 财政的；财务的；金融的
+  - _They were in **financial difficulties**._
+    他们处于财务困难之中。
   - _Tokyo and New York are major **financial centres**._
     东京和纽约是主要的金融中心。
-
 
 ## 🗝 front
 
@@ -151,6 +152,8 @@ _**noun**, **verb**_
 - [singular] a person or thing that combines well with sb/sth else 相配的人（或物）；般配的人（或物）
   - _The curtains and carpet are a **good match**._
     窗帘和地毯非常相配。
+  - _Jo and Ian are **a perfect match** for each other._
+    乔和伊恩真是天设的一对，地配的一双。
 
 💡 PHRASAL VERBS
 
@@ -158,7 +161,6 @@ _**noun**, **verb**_
   to find things that belongs together or that look attractive together 归类；配套；搭配
   - _She spent the morning matching up orders with invoices._
     她花了一上午工夫把订单和发票都给对好了。
-
 
 ## 🗝 sit
 
@@ -196,6 +198,8 @@ _**determiner**, **pronoun**_
 - used to refer to a particular person, thing or event that is close to you, especially compared with another （指较近的人或事物）这，这个
   - _How long have you been living in this country?_
     你在这个国家居住多久啦？
+  - _Is this your bag?_
+    这是你的包吗？
 
 ## 🗝 time
 
