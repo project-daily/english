@@ -138,6 +138,8 @@ _**noun**, **verb**_
   to mention sth in order to give sb information about it or make them notice it （向某人）指出
   - _She tried in vain to point out to him the unfairness of his actions._
     她试图向他指出他的做法不公正，但无济于事。
+  - _I should point out that not noe of these paintings is original._
+    我应当指出，这些画中没有一幅是真迹。
 
 ## 🗝 shred
 
@@ -158,6 +160,8 @@ _NAmE_ /ðen/
 _**adverb**_
 
 - used to refer to a particular time in the past or future （指过去）当时，那时；（指将来）到那时，届时
+  - _Life was harder then because neither of us had a job._
+    那时生活比较艰苦，因为我俩都没有工作。
   - _Things were very different **back then**._
     以前那个时候情况大不相同。
 
