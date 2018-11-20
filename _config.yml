@@ -13,8 +13,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://project-daily.github.io
-root: /english
+url: https://project-daily.github.io/english
+root: /english/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -89,6 +89,8 @@ social:
 widget:
   title: 简介
   content: 简 单 , 不 简 单 ...
+
+search_engines: baidu
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
