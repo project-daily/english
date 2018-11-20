@@ -76,6 +76,8 @@ _**adverb**_
 - (before adjectives and adverbs 用于形容词和副词前) to some extend but not very 一定地；相当地
   - _I know him fairly well, but I wouldn't say we were really close friends._
     我想当了解他，但并不是说我们是真正地密友。
+  - _I go jogging fairly regularly._
+    我基本上经常慢跑锻炼。
 
 ## 🗝 front
 
@@ -188,6 +190,8 @@ _**noun**_
 - [countable] an object whose name you do not use because you do not need to or want to, or because you do not know it 东西；物
   - _She's very fond of sweet things_ (= sweet foods).
     她非常喜欢吃甜食。
+  - _Turn that thing off while I'm talking to you!_
+    我在跟你说话，把那个玩意儿关掉！
 
 ## 🗝 time
 
