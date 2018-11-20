@@ -88,6 +88,8 @@ _**noun**_
 - [uncountable, countable] the process of choosing a person or a group of people for a position. especially a political position, by voting 选举，推选（尤指从政）
   - _In America, presidential **elections are held** every four years._
     美国每四年举行一次总统选举。
+  - _The prime minister is about to **call**_ (= announce) _**an election**_.
+    首相即将宣布举行大选。
 
 ## 🗝 evidence
 
