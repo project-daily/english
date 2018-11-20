@@ -89,6 +89,8 @@ _**noun**, **adverb**, **preposition**_
 - **the front** [singular] the position that is in the direction that sb/sth is facing 前面；正前方
   - _Keep your eyes to the front and walk straight ahead._
     两眼看着正前方径直往前走。
+  - _There's a garden **at the front of** the house._
+    房子的前面有一座花园。
 
 _**adjective**_ [only before noun]
 
@@ -139,6 +141,8 @@ _**verb**_
   **~（at/to/towards sb/sth）**
   - _'What's your name?' he asked, pointing at the child with his pen._
     他用笔指着小孩问：“你叫什么名字？”
+  - _She pointed in my direction._
+    她指向我这边。
 
 ## 🗝 she
 
@@ -162,6 +166,8 @@ _NAmE_ /'sʌmtaɪmz/
 _**adverb**_
 
 - occasionally rather than all of the time 有时；间或
+  - _Sometimes I go by car._
+    有时我坐车去。
   - _I like to be on my own sometimes._
     有时候我喜欢一个人待着。
 
