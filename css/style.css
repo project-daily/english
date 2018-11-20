@@ -752,6 +752,7 @@ Footer
   .logo a {
     display: block; }
     .logo a img {
+      border-radius: 15px;
       display: block;
       height: 60px; }
 
