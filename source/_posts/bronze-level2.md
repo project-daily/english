@@ -99,6 +99,9 @@ _NAmE_ /'evɪdəns/
 _**noun**_
 
 - [uncountable, countable] the facts, signs or objects that make you believe that sth is true 根据；证明；证据
+  **~ (of sth)**
+  - _There is convincing evidence of a link between exposure to sun and skin cancer._
+    有可靠证据表明日光暴晒与皮肤癌之间有联系。
   - _The room bore evidence of a struggle._
     房间里有博斗过的痕迹。
 
