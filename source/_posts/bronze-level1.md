@@ -69,6 +69,8 @@ _**verb**_
   to solve a problem, perform a task, etc. 解决；处理；应付
   - _Have you dealt with these letters yet?_
     这些信件你处理了吗？
+  - _He's good at dealing with pressure._
+    他善于应付压力。
 
 ## 🗝 evidence
 
@@ -110,6 +112,8 @@ _NAmE_ /frʌnt/
 _**noun**, **adverb**, **preposition**_
 
 - [countable, usually singular] \(_usually_ **the front**) the part or side of sth that faces forward; the side of sth that you look at first 正面
+  - _The front of the building was covered with ivy._
+    大楼的正面爬满了常春藤。
   - _The front of the car was badly damaged._
     轿车的前面严重损坏。
 
@@ -123,6 +127,8 @@ _**noun**, **verb**_
 ➡ OPINION/FACT 看法；事实
 
 - [countable] a thing that sb says or writes giving their opinion or stating a fact 论点；观点；见解
+  - _I **take your point**_ (= understand and accept what you are saying).
+    我赞同你的看法。
   - _OK, you've **made your point!**_
     好了，你已经把话说清楚了！
 
