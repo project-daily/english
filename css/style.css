@@ -1080,10 +1080,10 @@ pre {
       left: 0;
       top: 70px;
       padding: 15px 0 15px 30px;
-      width: 100%;
-      background: #efefef;
-      border-bottom: 1px solid #dcdcdc;
-      box-shadow: 0 2px 3px #dfdfdf;
+      width: calc(100% + 70px);
+      background: #f8f8f8;
+      margin-left: -50px;
+      box-shadow: 0 2px 3px #eaeaea;
       z-index: 9999; }
       .site-header .navbar ul li {
         width: 100%;
