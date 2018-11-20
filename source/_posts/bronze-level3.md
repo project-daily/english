@@ -17,6 +17,37 @@ tags:
 - time
 ---
 
+## 🗝 and
+
+_BrE_ /ənd/
+_NAmE_ /ənd/
+_BrE_ /ən/
+_NAmE_ /ən/
+_BrE_ /n/
+_NAmE_ /n/
+_BrE_ /ænd/
+_NAmE_ /ænd/
+
+_**conjunction**_
+
+- also; in addition to 和；与；同；又；而
+  - _Sue and I left early._
+    我和休早离开了。
+
+## 🗝 authority
+
+_BrE_ /ɔː'θɒrəti/
+_NAmE_ /ə'θɔːrəti/
+_NAmE_ /ə'θɑːrəti/
+
+_**noun**_
+
+➡ POWER 权力
+
+- [uncountable] the power to give orders to people 权力；威权；当权（地位）
+  - _She now **has authority over** the people who used to be her bosses._
+    她现在管辖着过去是她上司的那些人。
+
 ## 🗝 deal
 
 _BrE_ /diːl/
@@ -29,6 +60,11 @@ _**noun**_
 - [singular] **a good/great ~** much; a lot 大量；很多
   - _They spent a great deal of money._
     他们花了大量的钱。
+
+💡 PHRASAL VERBS
+
+- **deal with sb/sth**
+  to do business with a person, a company or an organization 与...做生意
 
 ## 🗝 fairly
 
@@ -75,6 +111,47 @@ _**adjective**_ [only before noun]
   - _The company name was spelled out in gold letters._
     该公司的名称用烫金字母拼成。
 
+## 🗝 match
+
+_BrE_ /mætʃ/
+_NAmE_ /mætʃ/
+
+_**verb**_
+
+➡ FIND STH SIMILAR/CONNECTED 配对
+
+- [transitive] **~sb/sth (to/with sb/sth)** to find sb/sth that goes together with or is connected with another person or thing 找相称（或相关）的人（或物）；配对
+  - _The aim of competition is to match the quote to the person who said it._
+    比赛的要求是把引文和它的作者配在一起。
+
+## 🗝 point
+
+_BrE_ /pɔɪnt/
+_NAmE_ /pɔɪnt/
+
+_**verb**_
+
+➡ SHOW WITH FINGER 用手指示意
+
+- [intransitive, transitive, no passive] to stretch out your finger or sth held in your hand towards sb/sth in order to show sb where a person or thing is （用手指头或物体）指，指向
+  **~（at/to/towards sb/sth）**
+  - _'What's your name?' he asked, pointing at the child with his pen._
+    他用笔指着小孩问：“你叫什么名字？”
+
+## 🗝 she
+
+_BrE_ /ʃi/
+_NAmE_ /ʃi/
+_strong form_
+_BrE_ /ʃiː/
+_NAmE_ /ʃiː/
+
+_**pronoun**_
+
+- (used as the subject of a verb 用作动词的主语) a female person or animal that has already been mentioned or is easily identified 她；（指雌性动物）它
+  - _Doesn't she_ (= the woman we are looking at) _look like Sue?_
+    她看上去不是很像休吗？
+
 ## 🗝 sometimes
 
 _BrE_ /'sʌmtaɪmz/
@@ -99,6 +176,19 @@ _**noun**_ [countable + singular or plural verb]
   - _(NAmE) Whose team are you on?_
     你是哪个队的？
 
+## 🗝 thing
+
+_BrE_ /θɪŋ/
+_NAmE_ /θɪŋ/
+
+_**noun**_
+
+➡ OBJECT 物体
+
+- [countable] an object whose name you do not use because you do not need to or want to, or because you do not know it 东西；物
+  - _She's very fond of sweet things_ (= sweet foods).
+    她非常喜欢吃甜食。
+
 ## 🗝 time
 
 _BrE_ /taɪm/
@@ -107,6 +197,11 @@ _NAmE_ /taɪm/
 _**noun**_
 
 💡 IDIOMS
+
+- **at all times**
+  always 总是；随时；永远
+  - _Our representatives are ready to help you at all times._
+    我们的代表随时准备帮助你。
 
 - **at the same time**
   used to introduce a contrasting fact, etc. that must be considered （用以引出必须予以考虑的相对情况）同时，也，然而，不过
