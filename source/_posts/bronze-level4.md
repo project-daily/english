@@ -26,6 +26,8 @@ _NAmE_ /'ɔːlmoʊst/
 _**adverb**_
 
 - not quite 几乎；差不多
+  - _I like almost all of them._
+    我差不多所有的都喜欢。
   - _It's almost time to go._
     是差不多该走的时候了。
 
