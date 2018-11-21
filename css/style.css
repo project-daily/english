@@ -684,7 +684,8 @@ Footer
   height: 20px;
   background-repeat: no-repeat;
   background-size: 100%;
-  text-indent: -999em; }
+  text-indent: -999em;
+  margin: 0 2px; }
   .icon.icon-github {
     background-image: url("../images/github.svg"); }
   .icon.icon-weibo {
