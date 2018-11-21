@@ -104,3 +104,205 @@ _**verb**_
 - [intransitive, transitive] (not usually used in the progressive tenses 通常不用于进行时) to be told about sth 听说；得知
   - _'I'm getting married.' '**So I've heard.**'_
     “我要结婚了。” “我听说了。”
+
+## 🗝 morning
+
+_BrE_ /'mɔːnɪŋ/
+_NAmE_ /'mɔːrnɪŋ/
+
+_**noun**_
+
+- the early part of the day from the time when people wake up until midday or before lunch 早晨；上午
+  - _They left for Spain early this morning._
+    他们今天一早就出发去西班牙了。
+
+## 🗝 nicely
+
+_BrE_ /'naɪsli/
+_NAmE_ /'naɪsli/
+
+_**adverb**_
+
+- in an attractive or acceptable way; well 有吸引力；令人满意；令人愉快；很好地
+  - _The plants are **coming along nicely**_ (= growing well).
+    植物长势良好。
+
+## 🗝 official
+
+_BrE_ /ə'fɪʃl/
+_NAmE_ /ə'fɪʃl/
+
+_**adjective**_
+
+- [only before noun] connected with the job of sb who is in a position of authority 公务的；公职的；公事的
+  - _He attended in his official capacity as mayor._
+    他以市长的官方身份莅临。
+
+- [usually before noun] agreed to, said, done, etc. by sb who is in a position of authority 正式的；官方的；官方授权的
+  - _An official inquiry has been launched into the cause of the accident._
+    当局已对事故的原因展开调查。
+
+## 🗝 officially
+
+_BrE_ /ə'fɪʃəli/
+_NAmE_ /ə'fɪʃəli/
+
+_**adverb**_
+
+- publicly and by sb who is in a position of authority 正式地；官方地；公开地
+  - _The college is not an officially recognized English language school._
+    那所学院不是官方认可地英语学校。
+
+## 🗝 pass
+
+_BrE_ /pɑːs/
+_NAmE_ /pæs/
+
+_**verb**_
+
+➡ MOVE 移动
+
+- [intransitive, transitive] to move past or to the other side of sb/sth 通过；走过
+  - _The road was so narrow that cars were unable to pass._
+    道路太窄，汽车无法通过。
+
+➡ GIVE 给予
+
+- [transitive] to give sth to sb by putting it into their hands or in a place where they can easily reach it 给；递；传递
+  **~ sth (to sb)**
+  - _Pass the salt, please._
+    请把盐递过来。
+
+💡 PHRASAL VERBS
+
+- **pass away**
+  - (_also_ **pass on**) to die. People say 'pass away' to avoid saying 'die'. （婉辞，指去世）亡故
+    - _His mother passed away last year._
+      他的母亲去年去世了。
+
+## 🗝 passing
+
+_BrE_ /'pɑːsɪŋ/
+_NAmE_ /'pæsɪŋ/
+
+_**adjective**_ [only before noun]
+
+- lasting only for a short period of time and then disappearing 暂时的；瞬间的
+  - _He makes only a **passing reference** to the theory in his book_ (= it is not the main subject of his book).
+    他在书中对这个理论只是一笔带过。
+
+## 🗝 powerful
+
+_BrE_ /'paʊəfl/
+_NAmE_ /'paʊərfl/
+
+_**adjective**_
+
+- having great power or force; very effective 强有力的；力量大的；很有效的
+  - _a powerful voice_
+    洪亮的嗓音
+
+## 🗝 royal
+
+_BrE_ /'rɔɪəl/
+_NAmE_ /'rɔɪəl/
+
+_**adjective**_ [only before noun]
+
+- connected with or belonging to the king or queen of a country 国王的；女王的；皇家的；王室的
+  - _the royal household_
+    王室
+
+## 🗝 simple
+
+_BrE_ /'sɪmpl/
+_NAmE_ /'sɪmpl/
+
+_**adjective**_
+
+➡ EASY 容易
+
+- not complicated; easy to understand or do 易于理解的；易做的；简单的
+  - _The answer is really quite simple._
+    实际上答案相当简单。
+
+## 🗝 simply
+
+_BrE_ /'sɪmpli/
+_NAmE_ /'sɪmpli/
+
+_**adverb**_
+
+- used to emphasize how easy or basic sth is （强调简单）仅仅，只，不过
+  - _Simply add hot water and stir._
+    只需加上热水搅动就行。
+
+## 🗝 subject
+
+_BrE_ /ˈsʌbdʒɪkt/
+_NAmE_ /ˈsʌbdʒɪkt/
+_BrE_ /sʌbdʒekt/
+_NAmE_ /ˈsʌbdʒɪkt/
+
+_**noun**_
+
+➡ OF CONVERSATION/BOOK 谈话；书籍
+
+- a thing or person that is being discussed, described or dealt with 主题；题目；话题；题材；问题
+  - _I have nothing more to say on the subject._
+    关于这个问题，我再没有要说的了。
+
+## 🗝 sure
+
+_BrE_ /ʃʊə(r)/
+_BrE_ /ʃɔ:(r)/
+_NAmE_ /ʃʊr/
+
+_**adjective**_
+
+- [not before noun] confident that you know sth or that you are right 确信；确知；肯定；有把握
+  - _You don't sound very sure._
+    听你这口气，你不大肯定。
+
+## 🗝 theory
+
+_BrE_ /'θɪəri/
+_NAmE_ /'θɪri/
+_NAmE_ /'θiːəri/
+
+_**noun**_
+
+- [countable, uncountable] a formal set of ideas that is intended to explain why sth happens or exists 学说；论；说
+  - _According to the theory of relativity, nothing can travel faster than light._
+    根据相对论，任何东西都无法超越光速。
+
+- [countable] **~ (that...)** an opinion or idea that sb believes is true but that is not proved （未证明的）意见；看法；推测
+  - _I have this theory that most people prefer being at work to being at home._
+    依我看，多数人喜欢工作而不愿待在家里。
+
+## 🗝 under
+
+_BrE_ /'ʌndə(r)/
+_NAmE_ /'ʌndər/
+
+_**adverb**_
+
+- below the surface of water 在水下
+  - _The boat was going under fast._
+    小船正迅速下沉。
+
+- less, younger 少于；小于；较年轻
+  - _children aged 12 and under_
+    12 岁及以下的儿童
+
+## 🗝 water
+
+_BrE_ /'wɔːtə(r)/
+_NAmE_ /'wɔːtər/
+_NAmE_ /'wɑːtər/
+
+_**noun**_
+
+- [countable] a liquid without colour, smell or taste that falls as rain, is in lakes, rivers and seas, and is used for drinking, washing, etc. 水
+  - _There is hot and cold **running water** in all the bedrooms._
+    所有的卧室里都有冷热自来水。
