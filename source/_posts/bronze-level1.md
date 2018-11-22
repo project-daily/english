@@ -144,7 +144,7 @@ _**noun**, **verb**_
   to mention sth in order to give sb information about it or make them notice it （向某人）指出
   - _She tried in vain to point out to him the unfairness of his actions._
     她试图向他指出他的做法不公正，但无济于事。
-  - _I should point out that not noe of these paintings is original._
+  - _I should point out that not one of these paintings is original._
     我应当指出，这些画中没有一幅是真迹。
 
 ## 🗝 shred
