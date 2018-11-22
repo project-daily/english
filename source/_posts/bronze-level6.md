@@ -71,7 +71,7 @@ _NAmE_ /'kɑ:nfərəns/
 
 _**noun**_
 
-- a large official meeting, usually lasting for a few days, at which people with the same work or interests some together to discuss their views （通常持续几天的大型正式）会议，研讨会
+- a large official meeting, usually lasting for a few days, at which people with the same work or interests come together to discuss their views （通常持续几天的大型正式）会议，研讨会
   - _The conference will be held in Glasgow._
     会议将在格拉斯哥举行。
 
@@ -97,6 +97,8 @@ _NAmE_ /hɪr/
 _**verb**_
 
 - [intransitive, transitive] (not used in the progressive tenses 不用于进行时) to be aware of sounds with your ears 听见；听到
+  - _I can't hear very well._
+    我听觉不太好。
   **~ sth/sb**
   - _She heard footsteps behind her._
     她听到背后有脚步声。
@@ -124,6 +126,8 @@ _NAmE_ /'naɪsli/
 _**adverb**_
 
 - in an attractive or acceptable way; well 有吸引力；令人满意；令人愉快；很好地
+  - _The room was nicely furnished._
+    这房间布置得很舒适。
   - _The plants are **coming along nicely**_ (= growing well).
     植物长势良好。
 
@@ -141,6 +145,8 @@ _**adjective**_
 - [usually before noun] agreed to, said, done, etc. by sb who is in a position of authority 正式的；官方的；官方授权的
   - _An official inquiry has been launched into the cause of the accident._
     当局已对事故的原因展开调查。
+  - _The country's official language is Spanish._
+    这个国家的官方语言为西班牙语。
 
 ## 🗝 officially
 
@@ -150,6 +156,8 @@ _NAmE_ /ə'fɪʃəli/
 _**adverb**_
 
 - publicly and by sb who is in a position of authority 正式地；官方地；公开地
+  - _The library will be officially opened by the local MP._
+    图书馆将由当地下院议员正式揭幕。
   - _The college is not an officially recognized English language school._
     那所学院不是官方认可地英语学校。
 
