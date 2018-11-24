@@ -173,6 +173,9 @@ _**verb**_
 - [intransitive, transitive] to move past or to the other side of sb/sth 通过；走过
   - _The road was so narrow that cars were unable to pass._
     道路太窄，汽车无法通过。
+  **~ sb/sth**
+  - _You'll pass a bank on the way to the train station._
+    你在去火车站的路上会经过一家银行。
 
 ➡ GIVE 给予
 
