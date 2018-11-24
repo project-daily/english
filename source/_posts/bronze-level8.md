@@ -44,6 +44,8 @@ _**verb**_
 
 - to feel uncertain about sth; to feel that sth is not true, will probably not happen, etc. 怀疑；无把握；不能肯定；认为...未必可能
   **~ sth**
+  - _There seems no reason to doubt her story._
+    似乎没有理由怀疑她所说的话。
   - _'Do you think England will win?' - '**I doubt it.**'_
     “你认为英格兰队会取胜吗？” “不一定。”
 
@@ -140,6 +142,8 @@ _NAmE_ /ˈmʌndi/
 _**noun**_
 
 - [countable, uncountable] \(_abbreviation_ **Mon.**) the day of the week after Sunday and before Tuesday, the first day of the working week 星期一
+  - _She started work **last Monday**._
+    她上个星期一开始工作。
   - _Are you busy **next Monday**?_
     下周一你忙吗？
 
