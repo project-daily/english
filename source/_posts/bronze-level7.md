@@ -113,6 +113,9 @@ _**verb**_
   **~ sth**
   - _The book ensured his success._
     这本书使他笃定会成功。
+  **~ (that)...**
+  - _Please ensure (that) all lights are switched off._
+    请确保所有的灯都关掉。
 
 ## 🗝 excellent
 
@@ -194,6 +197,9 @@ _**adjective**_
 - pleasant, enjoyable or attractive 令人愉快的；宜人的；吸引人的
   - _You look very nice._
     你很好看。
+  **~ (doing sth)**
+  - _**It's been nice meeting you.**_
+    这次见到你真高兴。
 
 ## 🗝 official
 
