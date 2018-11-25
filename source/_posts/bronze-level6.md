@@ -117,6 +117,8 @@ _**noun**_
 - the early part of the day from the time when people wake up until midday or before lunch 早晨；上午
   - _They left for Spain early this morning._
     他们今天一早就出发去西班牙了。
+  - _See you **tomorrow morning**._
+    明天上午见。
 
 ## 🗝 nicely
 
@@ -221,6 +223,8 @@ _NAmE_ /'rɔɪəl/
 _**adjective**_ [only before noun]
 
 - connected with or belonging to the king or queen of a country 国王的；女王的；皇家的；王室的
+  - _She married a member of the royal family._
+    她嫁给了一个王室成员。
   - _the royal household_
     王室
 

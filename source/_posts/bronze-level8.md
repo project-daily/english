@@ -87,6 +87,8 @@ _NAmE_ /ˈeksələnt/
 _**adjective**_
 
 - extremely good 优秀的；杰出的；极好的
+  - _At $300 the bike is **excellent value**._
+    这辆自行车 300 块钱太合算了。
   - _She speaks excellent French._
     她法语说得极好了。
 

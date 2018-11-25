@@ -34,6 +34,8 @@ _NAmE_ /əˈproʊpriət/
 _**adjective**_
 
 - suitable, acceptable or correct for the particular circumstance 合适的；恰当的
+  - _Now that the problem has been identified, appropriate action can be taken._
+    现在既已找出问题的症结，即可采取适当行动。
   **~ for sth**
   - _Jeans are not appropriate for a formal party._
     正式聚会上穿牛仔裤不合适。
