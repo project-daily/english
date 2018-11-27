@@ -52,7 +52,7 @@ _**noun**_ [countable, uncountable]
 _BrE_ /klɪə(r)/
 _NAmE_ /klɪr/
 
-_**adverb**_
+_**adjective**_
 
 ➡ WITHOUT CONFUSION/DOUBT 清晰；无疑问
 

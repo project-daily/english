@@ -41,14 +41,6 @@ _**adjective**_
 _BrE_ /klɪə(r)/
 _NAmE_ /klɪr/
 
-_**adverb**_
-
-➡ NOT NEAR/TOUCHING 不靠近；不触及
-
-- **~ (of sth)** away from sth; not near or touching sth 离开；不靠近；不接触
-  - _Stand clear of the train doors._
-    不要靠近列车门站立。
-
 _**verb**_
 
 ➡ REMOVE STH/SB 移动某物；使某人离去
@@ -124,6 +116,9 @@ _NAmE_ /'laɪkli/
 _**adjective**_
 
 - probable or expected 可能的；预料的；有希望的
+  - **~ (to do sth)**
+  - _Tickets are likely to be expensive._
+    入场券可能很贵。
   - _It's **more than likely that** the thieves don't know how much it is worth._
     盗贼很可能不知道此物的价值。
 
@@ -223,7 +218,10 @@ _**verb**_
 ➡ GIVE IMPRESSION 给以印象
 
 - _**linking verb**_ to give a particular impression when heard or read about 听起来好像；让人听着好像
-  **~ like sb/sth**
+  - **+ adj.**
+  - _His explanation sounds reasonable to me._
+    他的解释我听着有道理。
+  - **~ like sb/sth**
   - _You sounded just like your father when you said that._
     你说这话，听着跟你父亲一模一样。
 
@@ -331,5 +329,7 @@ _NAmE_ /waɪf/
 _**noun**_
 
 - the woman that a man is married to; a married woman 妻子；太太；夫人；已婚妇女
+  - _She's his second wife._
+    她是他的第二个妻子。
   - _an increase in the number of working wives_
     已婚职业妇女人数地增加。

@@ -50,6 +50,8 @@ _**noun**_
 - the series of jobs that a person has in a particular area of work, usually involving more responsibility as time passes 生涯；职业
   - _What made you decide on a **career as** a vet?_
     是什么驱使你选择兽医这门职业的？
+  - _She has been concentrating on her career._
+    她一直专心致志于她的本职工作。
 
 ## 🗝 clear
 
@@ -63,6 +65,8 @@ _**adverb**_
 - **~ (of sth)** away from sth; not near or touching sth 离开；不靠近；不触及
   - _He injured his arm as he jumped clear of the car._
     他跳离汽车时手臂受了伤。
+  - _Stand clear of the train doors._
+    不要靠近列车门站立。
 
 ## 🗝 clearly
 
@@ -149,6 +153,8 @@ _**adjective**_
 - **~ to do sth** willing to do sth 愿意
   - _We are not prepared to accept these conditions._
     我们无意接受这些条件。
+  - _How much are you prepared to pay?_
+    你愿意出多少钱？
 
 ## 🗝 put
 
@@ -338,8 +344,15 @@ _**verb**_
 
 - [intransitive, transitive] to no longer continue to do sth; to make sb/sth no longer do sth （使）中断，停止
   **~ (doing sth)**
+  - _Please stop crying and tell me what's wrong._
+    快别哭了，告诉我出了什么事？
   - _She criticizes everyone and the trouble is, she **doesn't know when to stop.**_
     她谁都批评；而且，问题是她批评起来就没个完。
+  **~ what...**
+  - _We stopped taking pictures_
+    means 'We were no longer taking pictures'
+  - _We stopped to take pictures_
+    means 'We stopped what we were doing so that we could start taking pictures.' 注意 stop doing sth 和 stop to do sth 之间的区别：We stopped taking pictures 意思是我们不再照相了；而 We stopped to take pictures 意思则是我们停下正在做的事而去照相。
 
 ## 🗝 structure
 
@@ -390,6 +403,9 @@ _**noun**_
 
 - Saturday and Sunday 星期六和星期日；周末
   - _Are you doing anything **over the weekend**?_
+    你在周末有什么安排吗？
+  - _Have a good weekend!_
+    周末愉快！
 
 ## 🗝 why
 
