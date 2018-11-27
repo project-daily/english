@@ -31,8 +31,10 @@ _NAmE_ /'ɔːlsəʊ/
 _**adverb**_
 
 - (not used with negative verbs 不与否定动词连用) in addition; too 而且；此外；也；同样
-  - _She's fluent in French and German. She also speak a little Italian._
+  - _She's fluent in French and German. She also speaks a little Italian._
     她的法语和德语讲得流利，也会说一点意大利语。
+  - _She was **not only** intelligent **but also** very musical._
+    她不仅聪明，而且极具音乐天分。
 
 ## 🗝 average
 
@@ -121,10 +123,12 @@ _NAmE_ /'hjuːmən/
 _**adjective**_
 
 - [only before noun] of or connected with people rather than animals, machines or gods 人的
+  - _Contact with other people is a basic **human need**._
+    和他人接触时人的基本需要。
   - _This food is not fit for human consumption._
     这种食物不适合人食用。
 
-## 🗝 labor
+## 🗝 labour
 
 (_especially US_ **labor**)
 _BrE_ /'leɪbə(r)/

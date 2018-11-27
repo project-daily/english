@@ -208,7 +208,7 @@ _**noun**_
 
 - [countable] an amount of sth such as time or money that you do not need to use or spend 节省物；节省；节约
   - _Buy three and make a saving of 55p._
-    买三件就能节省 55 便士。 
+    买三件就能节省 55 便士。
 
 ## 🗝 serious
 
@@ -290,6 +290,8 @@ _**noun**_
 - [countable] something that you can hear 声音；响声
   - _She heard the sound of footsteps outside._
     她听见外面有脚步声。
+  - _He crept into the house trying not to **make a sound**._
+    他蹑手蹑脚地溜进房子里，尽量不弄出一点声响。
 
 ## 🗝 start
 
@@ -413,4 +415,4 @@ _**noun**_
 
 - (_also_ **testament**) [countable] a legal document that says what is to happen to sb's money and property after they die 遗嘱
   - _I ought to **make a will**._
-    我应该立份遗嘱。
+    我应该立份遗嘱。 
