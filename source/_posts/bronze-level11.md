@@ -89,7 +89,7 @@ _**noun**_
 💡 IDIOMS
 
 - **have your eye on sb**
-  - to be watching sb carefully, especially to check they do not do anything wrong m密切注视；盯住；监视
+  - to be watching sb carefully, especially to check they do not do anything wrong 密切注视；盯住；监视
 
 ## 🗝 help
 
@@ -258,7 +258,7 @@ _**noun**_
 
 _**verb**_
 
-- MAKE CLEAR 表明
+➡ MAKE CLEAR 表明
 
 - [transitive] to make sth clear; to prove sth 表明；证明
   **~ (that)...**
