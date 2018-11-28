@@ -6,7 +6,6 @@ tags:
 - clear
 - clearly
 - eye
-- help
 - labour
 - likely
 - performance
@@ -79,20 +78,6 @@ _**noun**_
   - to take care of sb/sth and make sure that they are not harmed, damaged, etc. 照看；留神；留意
     - _We've asked the neighbours to keep an eye on the house for us while we are away._
       我们已请邻居在我们外出时帮我们照看一下房子。
-
-## 🗝 help
-
-_BrE_ /help/
-_NAmE_ /help/
-
-_**verb**_
-
-➡ MAKE EASIER/BETTER 使更容易/更好
-
-- [intransitive, transitive] to make it easier or possible for sb to do sth by doing sth for them or by giving them sth that they need 帮助；协助；援助
-  **~ with sth**
-  - _He always helps with the housework._
-    他总是帮着做家务。
 
 ## 🗝 labour
 

@@ -71,6 +71,8 @@ _**noun**_
 - [countable] either of the two organs on the face that you see with 眼睛
   - _There were tears in his eyes._
     他眼里噙着泪水。
+  - _I have something in my eye._
+    我的眼睛里进了什么东西。
 
 ## 🗝 help
 

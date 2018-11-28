@@ -65,9 +65,11 @@ _**verb**_
 ➡ REMOVE STH/SB 移动某物；使某人离去
 
 - [transitive] to remove sth that is not wanted or needed from a place 移走，搬走，清除（不需要的东西）
-  **~ sth/sb**
+  - **~ sth/sb**
   - _It's your turn to **clear the table**_ (= to take awsy the dirty plates, etc. after a meal).
     该轮到你收拾餐桌了。
+  - _She **cleared a space** on the sofa for him to sit down._
+    她在沙发上清出一个空位让他坐下。
 
 💡 PHRASAL VERBS
 

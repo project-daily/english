@@ -116,6 +116,9 @@ _**verb**_
 - [transitive, transitive] to make it easier or passible for sb to do sth by doing sth for them or by giving them sth that they need 帮助；协助；援助
   - _Help, I'm stuck!_
     救命，我被卡住了。
+  - **~ with sth**
+  - _He always helps with the housework._
+    他总是帮着做家务。
 
 ## 🗝 message
 
@@ -125,6 +128,8 @@ _NAmE_ /'mesɪdʒ/
 _**noun**_
 
 - a written or spoken piece of information, etc. that you send to sb or leave for sb when you cannot speak to them yourself （书面或口头的）信息，消息，音信
+  - _We've had a urgent message saying that your father's ill._
+    我们得到个紧急消息说你父亲病了。
   - _I **left a message** on her voicemail._
     我给她的语音信息留言了。
 
