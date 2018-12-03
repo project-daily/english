@@ -47,7 +47,7 @@ _**adverb**_
 
 _**verb**_
 
-💡 IDIOMS
+💡 PHRASAL VERBS
 
 - **back sb/sth↔up**
   - to support sb/sth; to say that what sb says, etc. is true 支持；证实（某人所言）
@@ -349,6 +349,8 @@ _**noun**_
   - **~ (to do sth)**
   - _Your **best plan**_ (= the best thing to do) _would be to go by car._
     你开车去是上策。
+  - _There's been **a change of plan**._
+    计划作了变动。
 
 _**verb**_
 
