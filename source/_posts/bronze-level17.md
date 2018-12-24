@@ -36,6 +36,8 @@ _**preposition**_
 - surrounded by sb/sth; in the middle of sb/sth 在...中；周围是
   - _They strolled among the crowds._
     他们在人群中信步而走。
+  - _It's OK, you're among friends now._
+    没事，周围都是自己人。
 
 ## 🗝 another
 
@@ -186,6 +188,8 @@ _**noun**_
 - a person you know well and like, and who is not usually a member of your family 朋友；友人
   - _This is my friend Tom._
     这是我的朋友汤姆。
+  - _Is he **a friend of yours**?_
+    他是你的朋友吗？
 
 ## 🗝 huge
 
@@ -197,6 +201,8 @@ _**adjective**_
 - extremely large in size or amount; great in degree 巨大的；极多的；程度高的
   - _The sums of money involved are potentially huge._
     涉及的金额可能很大。
+  - _The party was a huge success._
+    聚会办得非常成功。
 
 ## 🗝 industry
 

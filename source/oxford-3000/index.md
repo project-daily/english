@@ -28,3 +28,4 @@ date: 2018-11-21 16:09:07
 - {% post_link bronze-level15 %}
 - {% post_link bronze-level16 %}
 - {% post_link bronze-level17 %}
+- {% post_link bronze-level18 %}

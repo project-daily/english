@@ -34,7 +34,7 @@ tags:
 - nurture _vt._ 培养，教育，发展
 - nurture team dynamics 培养团队活力
 - promote team spirit 提倡团队精神
-- drive team success 驱使团队精神
+- drive team success 驱使团队成功
 - minimize _vt._ 将.....减到最小，最小化
 - inhibit _vt._ 约束，抑止
 - liven up 使......有生气
@@ -58,5 +58,3 @@ tags:
 - commitment *n.* 敬业精神
 - interpersonal communication skills 人际交往技能，亦作 interpersonal skills
 - address _vt._ 处理（事情）
-- creative innovation 创新精神
-

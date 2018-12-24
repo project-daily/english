@@ -143,6 +143,8 @@ _**adverb**_
 - very; very much 很；非常；极其
   - _She is deeply religious._
     她非常虔诚。
+  - _Opinion is **deeply divided** on this issue._
+    对这个问题的意见分歧很大。
 
 ## 🗝 except
 
